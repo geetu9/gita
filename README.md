@@ -1,2 +1,2 @@
 # gita
-personal info 
+it is all about threads and exception concepts .. 
